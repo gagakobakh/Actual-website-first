@@ -1,0 +1,247 @@
+.div1 {
+	background-color:#0865DE;
+	width: 1439px;
+	height: 743px;
+	
+}
+.forlist{
+	margin-left: 800px;
+	padding-top: 28px;
+	margin-right: 127px;
+
+}
+
+
+}
+.*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.ul1{
+	list-style-type: none;
+
+}
+.ul2 {
+	list-style-type:none ;
+	padding-left: 0px;
+
+}
+
+li{
+	
+	margin: 25px ;
+	color: #FFFFFF;
+	font-size: 12px;
+	font-family: Brandon Grotesque;
+}
+.list1 { display: inline-block;
+		 border-right: solid white 0.5px ;
+		 padding-right:10px;
+
+
+
+
+}
+
+.list2 { display: inline-block;
+		
+		border-right: solid white 0.5px ;
+		padding-right:10px
+
+}
+.list3 { display: inline-block;
+		 border-right: solid white 0.5px ;
+		 padding-right:10px
+
+}
+.list4 { display: inline-block;
+	     border-right: solid white 0.5px ;
+		 padding-right:10px
+
+}
+
+.first{
+	margin-left: 179px;
+	margin-top: 150px;
+}
+
+
+
+.title1 {
+	width: 459px;
+	height: 43px;
+	font-size: 30px;
+	color:#FFFFFF ;
+
+}
+
+.section2{
+	margin-top: 90px;
+	margin-left: 179px;
+	margin-bottom: 120px;
+}
+
+.h2first{
+	color:#FFFFFF;
+	width: 146px;
+	height: 36px;
+	font-size: 25px;
+
+
+}
+.paragraph1{
+	color:#FFFFFF;
+	width: 830px;
+	height: 124px;
+	font-family: Tisa OT;
+
+}
+
+body{
+	background-color: #F7F7F7 ;
+}
+
+.divnew{
+	margin-left: 180px;
+	margin-top: 91px;
+}
+
+.h2new{
+	color: #000000;
+	font-size: 25px;
+	padding-bottom: 30px;
+}
+
+.newp{
+	color: #434343;
+	font-size: 25px;
+	width: 1079px;
+	height: 169px;
+}
+
+.divnew1{
+	background-color:white;
+	width: 1260px;
+	height: 594px;
+	margin-left: 90px;
+	margin-right: 90px;
+}
+.h2new1{
+	padding-left: 90px;
+	padding-top: 60px;
+	color: #000000;
+	font-size: 25px;
+}
+
+.divparagraphleft{
+	padding-left: 90px;
+	padding-right: 90px;
+	width: 438px;
+	height: 126px;
+	display: inline-block;
+	color: #434343;
+	padding-top: 30px;
+}
+.divparagraphright{
+	
+	width: 438px;
+	height: 126px;
+	display: inline-block;
+	color: #434343;
+	padding-top: 30px;
+}
+
+#h2fornew{
+	padding-left: 180px;
+	margin-top: 90px;
+	font-size: 25px;
+	color: #000000;
+	width: 469px;
+	height: 36px;
+}
+
+#fornewpage{
+	width: 794px;
+	height: 324px;
+	padding-left: 180px;
+	font-size: 18px;
+	color: #262626;
+	font-family: Tisa OT;
+}
+
+#fornewpage1 {
+
+	width: 1260px ;
+	height: 570px;
+	background-color: #FFFFFF;
+	margin-left: 90px;
+	margin-right: 90px;
+	margin-top: 124px;
+}
+
+#h2fornew2{
+	color: #000000;
+	padding-left: 90px;
+	padding-top: 90px;
+	width: 326px;
+	height: 36px;
+	padding-bottom: 65px;
+	font-size: 25px;
+}
+#pfornew1 {
+	padding-left: 90px;
+	width: 651px;
+	height: 85px;
+	font-size: 18px;
+	color: #434343;
+	padding-bottom: 60px;
+}
+
+.littleone{
+	display: inline-block;
+	background-color: #0865DE;
+	width: 315px;
+	height: 147px;
+	margin-left: 90px;
+}
+
+.littleones{
+	display: inline-block;
+	background-color: #0865DE;
+	width: 315px;
+	height: 147px;
+	margin-left: 60px;
+}
+
+.forlittle{
+	padding-left: 30px;
+	padding-top: 26px;
+	font-size: 14px;
+	color: #FFFFFF;
+	padding-bottom: 10px;
+
+}
+.pforlittle{
+	padding-left: 30px;
+	padding-bottom: 10px;
+	font-size: 12px;
+	color: #D1D1D1;
+	
+}
+
+.pforlittle1{
+	padding-left: 12px;
+	padding-bottom: 30px;
+	font-size: 12px;
+	color: #FFFFFF;
+	display: inline-block;
+}
+.logo1{
+	width: 21px;
+	height: 21px;
+	padding-left: 30px;
+
+
+}
